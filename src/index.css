@@ -2,3 +2,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base{
+    #hero{
+        /* background-color: #000000; */
+        background-image: url("images/wew.png");
+        /* background-position-y: 32px; */
+    }
+}
+
+@layer utilities{
+    input[type=number]::-webkit-inner-spin-button, 
+    input[type=number]::-webkit-outer-spin-button { 
+        -webkit-appearance: none; 
+        margin: 0; 
+}
+}
