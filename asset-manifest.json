@@ -1,23 +1,35 @@
 {
   "files": {
-    "main.css": "/webtest/static/css/main.267810f5.chunk.css",
-    "main.js": "/webtest/static/js/main.c1335fdd.chunk.js",
-    "main.js.map": "/webtest/static/js/main.c1335fdd.chunk.js.map",
-    "runtime-main.js": "/webtest/static/js/runtime-main.78db0e5c.js",
-    "runtime-main.js.map": "/webtest/static/js/runtime-main.78db0e5c.js.map",
-    "static/js/2.390142a8.chunk.js": "/webtest/static/js/2.390142a8.chunk.js",
-    "static/js/2.390142a8.chunk.js.map": "/webtest/static/js/2.390142a8.chunk.js.map",
-    "static/js/3.b2eac945.chunk.js": "/webtest/static/js/3.b2eac945.chunk.js",
-    "static/js/3.b2eac945.chunk.js.map": "/webtest/static/js/3.b2eac945.chunk.js.map",
+    "main.css": "/webtest/static/css/main.4e7b8b20.chunk.css",
+    "main.js": "/webtest/static/js/main.38c282b0.chunk.js",
+    "main.js.map": "/webtest/static/js/main.38c282b0.chunk.js.map",
+    "runtime-main.js": "/webtest/static/js/runtime-main.2991d98a.js",
+    "runtime-main.js.map": "/webtest/static/js/runtime-main.2991d98a.js.map",
+    "static/js/2.a46c2b70.chunk.js": "/webtest/static/js/2.a46c2b70.chunk.js",
+    "static/js/2.a46c2b70.chunk.js.map": "/webtest/static/js/2.a46c2b70.chunk.js.map",
+    "static/js/3.3d3fcf59.chunk.js": "/webtest/static/js/3.3d3fcf59.chunk.js",
+    "static/js/3.3d3fcf59.chunk.js.map": "/webtest/static/js/3.3d3fcf59.chunk.js.map",
     "index.html": "/webtest/index.html",
-    "static/css/main.267810f5.chunk.css.map": "/webtest/static/css/main.267810f5.chunk.css.map",
-    "static/js/2.390142a8.chunk.js.LICENSE.txt": "/webtest/static/js/2.390142a8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/webtest/static/media/logo.6ce24c58.svg"
+    "static/css/main.4e7b8b20.chunk.css.map": "/webtest/static/css/main.4e7b8b20.chunk.css.map",
+    "static/js/2.a46c2b70.chunk.js.LICENSE.txt": "/webtest/static/js/2.a46c2b70.chunk.js.LICENSE.txt",
+    "static/media/TFF.5b7d96fb.png": "/webtest/static/media/TFF.5b7d96fb.png",
+    "static/media/bakrie.7601bd9e.jpeg": "/webtest/static/media/bakrie.7601bd9e.jpeg",
+    "static/media/cisco_gps.3c41bfb7.png": "/webtest/static/media/cisco_gps.3c41bfb7.png",
+    "static/media/fajar.75abe658.jpg": "/webtest/static/media/fajar.75abe658.jpg",
+    "static/media/fajar2.14a5e7e2.jpg": "/webtest/static/media/fajar2.14a5e7e2.jpg",
+    "static/media/kickandy.28921288.png": "/webtest/static/media/kickandy.28921288.png",
+    "static/media/logo_footer.154dcd76.png": "/webtest/static/media/logo_footer.154dcd76.png",
+    "static/media/logo_main.16351158.png": "/webtest/static/media/logo_main.16351158.png",
+    "static/media/logo_teks.0ef58578.png": "/webtest/static/media/logo_teks.0ef58578.png",
+    "static/media/matagaruda.8ebdf6c7.png": "/webtest/static/media/matagaruda.8ebdf6c7.png",
+    "static/media/pertamina.45668b14.png": "/webtest/static/media/pertamina.45668b14.png",
+    "static/media/sindonews.976f9881.png": "/webtest/static/media/sindonews.976f9881.png",
+    "static/media/index.css": "/webtest/static/media/wew.946bc5c0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.78db0e5c.js",
-    "static/js/2.390142a8.chunk.js",
-    "static/css/main.267810f5.chunk.css",
-    "static/js/main.c1335fdd.chunk.js"
+    "static/js/runtime-main.2991d98a.js",
+    "static/js/2.a46c2b70.chunk.js",
+    "static/css/main.4e7b8b20.chunk.css",
+    "static/js/main.38c282b0.chunk.js"
   ]
 }
