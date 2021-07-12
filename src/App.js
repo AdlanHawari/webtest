@@ -42,7 +42,7 @@ function App() {
       <DropdownMenu isOpen={isOpen} toggle={toggle}/>
       {/* <Content/> */}
       <Switch>
-        <Route path='/' exact component={Home}/>
+        <Route exact path='/' exact component={Home}/>
         <Route path='/about' component={About}/>
         <Route path='/products' component={Products}/>
         <Route path='/solutions' component={Solutions}/>
